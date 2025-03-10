@@ -1,0 +1,12 @@
+C:\Users\ugoo.alaegbu\Documents\AssignmentTwoDbConnect\DbConnection\obj\Debug\net8.0\DbConnect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ugoo.alaegbu\Documents\AssignmentTwoDbConnect\DbConnection\obj\Debug\net8.0\DbConnect.AssemblyInfoInputs.cache
+C:\Users\ugoo.alaegbu\Documents\AssignmentTwoDbConnect\DbConnection\obj\Debug\net8.0\DbConnect.AssemblyInfo.cs
+C:\Users\ugoo.alaegbu\Documents\AssignmentTwoDbConnect\DbConnection\obj\Debug\net8.0\DbConnect.csproj.CoreCompileInputs.cache
+C:\Users\ugoo.alaegbu\Documents\AssignmentTwoDbConnect\DbConnection\obj\Debug\net8.0\DbConnect.sourcelink.json
+C:\Users\ugoo.alaegbu\Documents\AssignmentTwoDbConnect\DbConnection\bin\Debug\net8.0\DbConnect.deps.json
+C:\Users\ugoo.alaegbu\Documents\AssignmentTwoDbConnect\DbConnection\bin\Debug\net8.0\DbConnect.dll
+C:\Users\ugoo.alaegbu\Documents\AssignmentTwoDbConnect\DbConnection\bin\Debug\net8.0\DbConnect.pdb
+C:\Users\ugoo.alaegbu\Documents\AssignmentTwoDbConnect\DbConnection\obj\Debug\net8.0\DbConnect.dll
+C:\Users\ugoo.alaegbu\Documents\AssignmentTwoDbConnect\DbConnection\obj\Debug\net8.0\refint\DbConnect.dll
+C:\Users\ugoo.alaegbu\Documents\AssignmentTwoDbConnect\DbConnection\obj\Debug\net8.0\DbConnect.pdb
+C:\Users\ugoo.alaegbu\Documents\AssignmentTwoDbConnect\DbConnection\obj\Debug\net8.0\ref\DbConnect.dll
